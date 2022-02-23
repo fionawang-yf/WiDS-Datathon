@@ -1,2 +1,2 @@
 # WiDS-Datathon
-Women in Data Science Datathon Project - 2022
+Women in Data Science Datathon Project -- 2022
